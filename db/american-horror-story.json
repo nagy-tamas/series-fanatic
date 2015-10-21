@@ -1,0 +1,317 @@
+[
+  {
+    "season": "1",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Pilot",
+        "date": "2011-10-05"
+      },
+      {
+        "no": "2",
+        "title": "Home Invasion",
+        "date": "2011-10-12"
+      },
+      {
+        "no": "3",
+        "title": "Murder House",
+        "date": "2011-10-19"
+      },
+      {
+        "no": "4",
+        "title": "Halloween (Part 1)",
+        "date": "2011-10-26"
+      },
+      {
+        "no": "5",
+        "title": "Halloween (Part 2)",
+        "date": "2011-11-02"
+      },
+      {
+        "no": "6",
+        "title": "Piggy Piggy",
+        "date": "2011-11-09"
+      },
+      {
+        "no": "7",
+        "title": "Open House",
+        "date": "2011-11-16"
+      },
+      {
+        "no": "8",
+        "title": "Rubber Man",
+        "date": "2011-11-23"
+      },
+      {
+        "no": "9",
+        "title": "Spooky Little Girl",
+        "date": "2011-11-30"
+      },
+      {
+        "no": "10",
+        "title": "Smoldering Children",
+        "date": "2011-12-07"
+      },
+      {
+        "no": "11",
+        "title": "Birth",
+        "date": "2011-12-14"
+      },
+      {
+        "no": "12",
+        "title": "Afterbirth",
+        "date": "2011-12-21"
+      }
+    ]
+  },
+  {
+    "season": "2",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Welcome to Briarcliff",
+        "date": "2012-10-17"
+      },
+      {
+        "no": "2",
+        "title": "Tricks and Treats",
+        "date": "2012-10-24"
+      },
+      {
+        "no": "3",
+        "title": "Nor'easter",
+        "date": "2012-10-31"
+      },
+      {
+        "no": "4",
+        "title": "I Am Anne Frank (Part 1)",
+        "date": "2012-11-07"
+      },
+      {
+        "no": "5",
+        "title": "I Am Anne Frank (Part 2)",
+        "date": "2012-11-14"
+      },
+      {
+        "no": "6",
+        "title": "The Origins of Monstrosity",
+        "date": "2012-11-21"
+      },
+      {
+        "no": "7",
+        "title": "Dark Cousin",
+        "date": "2012-11-28"
+      },
+      {
+        "no": "8",
+        "title": "Unholy Night",
+        "date": "2012-12-05"
+      },
+      {
+        "no": "9",
+        "title": "The Coat Hanger",
+        "date": "2012-12-12"
+      },
+      {
+        "no": "10",
+        "title": "The Name Game",
+        "date": "2013-01-02"
+      },
+      {
+        "no": "11",
+        "title": "Spilt Milk",
+        "date": "2013-01-09"
+      },
+      {
+        "no": "12",
+        "title": "Continuum",
+        "date": "2013-01-16"
+      },
+      {
+        "no": "13",
+        "title": "Madness Ends",
+        "date": "2013-01-23"
+      }
+    ]
+  },
+  {
+    "season": "3",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Bitchcraft",
+        "date": "2013-10-09"
+      },
+      {
+        "no": "2",
+        "title": "Boy Parts",
+        "date": "2013-10-16"
+      },
+      {
+        "no": "3",
+        "title": "The Replacements",
+        "date": "2013-10-23"
+      },
+      {
+        "no": "4",
+        "title": "Fearful Pranks Ensue",
+        "date": "2013-10-30"
+      },
+      {
+        "no": "5",
+        "title": "Burn, Witch. Burn!",
+        "date": "2013-11-06"
+      },
+      {
+        "no": "6",
+        "title": "The Axeman Cometh",
+        "date": "2013-11-13"
+      },
+      {
+        "no": "7",
+        "title": "The Dead",
+        "date": "2013-11-20"
+      },
+      {
+        "no": "8",
+        "title": "The Sacred Taking",
+        "date": "2013-12-04"
+      },
+      {
+        "no": "9",
+        "title": "Head",
+        "date": "2013-12-11"
+      },
+      {
+        "no": "10",
+        "title": "The Magical Delights of Stevie Nicks",
+        "date": "2014-01-08"
+      },
+      {
+        "no": "11",
+        "title": "Protect the Coven",
+        "date": "2014-01-15"
+      },
+      {
+        "no": "12",
+        "title": "Go to Hell",
+        "date": "2014-01-22"
+      },
+      {
+        "no": "13",
+        "title": "The Seven Wonders",
+        "date": "2014-01-29"
+      }
+    ]
+  },
+  {
+    "season": "4",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Monsters Among Us",
+        "date": "2014-10-08"
+      },
+      {
+        "no": "2",
+        "title": "Massacres and Matinees",
+        "date": "2014-10-15"
+      },
+      {
+        "no": "3",
+        "title": "Edward Mordrake (Part 1)",
+        "date": "2014-10-22"
+      },
+      {
+        "no": "4",
+        "title": "Edward Mordrake (Part 2)",
+        "date": "2014-10-29"
+      },
+      {
+        "no": "5",
+        "title": "Pink Cupcakes",
+        "date": "2014-11-05"
+      },
+      {
+        "no": "6",
+        "title": "Bullseye",
+        "date": "2014-11-12"
+      },
+      {
+        "no": "7",
+        "title": "Test of Strength",
+        "date": "2014-11-19"
+      },
+      {
+        "no": "8",
+        "title": "Blood Bath",
+        "date": "2014-12-03"
+      },
+      {
+        "no": "9",
+        "title": "Tupperware Party Massacre",
+        "date": "2014-12-10"
+      },
+      {
+        "no": "10",
+        "title": "Orphans",
+        "date": "2014-12-17"
+      },
+      {
+        "no": "11",
+        "title": "Magical Thinking",
+        "date": "2015-01-07"
+      },
+      {
+        "no": "12",
+        "title": "Show Stoppers",
+        "date": "2015-01-14"
+      },
+      {
+        "no": "13",
+        "title": "Curtain Call",
+        "date": "2015-01-21"
+      }
+    ]
+  },
+  {
+    "season": "5",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Checking In",
+        "date": "2015-10-07"
+      },
+      {
+        "no": "2",
+        "title": "Chutes and Ladders",
+        "date": "2015-10-14"
+      },
+      {
+        "no": "3",
+        "title": "Mommy\"[55",
+        "date": "2015-10-21"
+      },
+      {
+        "no": "4",
+        "title": "Devil's Night\"[56",
+        "date": "2015-10-28"
+      },
+      {
+        "no": "5",
+        "title": "Room Service\"[57",
+        "date": "2015-11-04"
+      },
+      {
+        "no": "6",
+        "title": "Room 33\"[58",
+        "date": "2015-11-11"
+      },
+      {
+        "no": "7",
+        "title": "Flicker\"[59",
+        "date": "2015-11-18"
+      }
+    ]
+  }
+]

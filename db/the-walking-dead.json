@@ -1,0 +1,447 @@
+[
+  {
+    "season": "1",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Days Gone Bye",
+        "date": "2010-10-31"
+      },
+      {
+        "no": "2",
+        "title": "Guts",
+        "date": "2010-11-07"
+      },
+      {
+        "no": "3",
+        "title": "Tell It to the Frogs",
+        "date": "2010-11-14"
+      },
+      {
+        "no": "4",
+        "title": "Vatos",
+        "date": "2010-11-21"
+      },
+      {
+        "no": "5",
+        "title": "Wildfire",
+        "date": "2010-11-28"
+      },
+      {
+        "no": "6",
+        "title": "TS-19",
+        "date": "2010-12-05"
+      }
+    ]
+  },
+  {
+    "season": "2",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "What Lies Ahead",
+        "date": "2011-10-16"
+      },
+      {
+        "no": "2",
+        "title": "Bloodletting",
+        "date": "2011-10-23"
+      },
+      {
+        "no": "3",
+        "title": "Save the Last One",
+        "date": "2011-10-30"
+      },
+      {
+        "no": "4",
+        "title": "Cherokee Rose",
+        "date": "2011-11-06"
+      },
+      {
+        "no": "5",
+        "title": "Chupacabra",
+        "date": "2011-11-13"
+      },
+      {
+        "no": "6",
+        "title": "Secrets",
+        "date": "2011-11-20"
+      },
+      {
+        "no": "7",
+        "title": "Pretty Much Dead Already",
+        "date": "2011-11-27"
+      },
+      {
+        "no": "8",
+        "title": "Nebraska",
+        "date": "2012-02-12"
+      },
+      {
+        "no": "9",
+        "title": "Triggerfinger",
+        "date": "2012-02-19"
+      },
+      {
+        "no": "10",
+        "title": "18 Miles Out",
+        "date": "2012-02-26"
+      },
+      {
+        "no": "11",
+        "title": "Judge, Jury, Executioner",
+        "date": "2012-03-04"
+      },
+      {
+        "no": "12",
+        "title": "Better Angels",
+        "date": "2012-03-11"
+      },
+      {
+        "no": "13",
+        "title": "Beside the Dying Fire",
+        "date": "2012-03-18"
+      }
+    ]
+  },
+  {
+    "season": "3",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Seed",
+        "date": "2012-10-14"
+      },
+      {
+        "no": "2",
+        "title": "Sick",
+        "date": "2012-10-21"
+      },
+      {
+        "no": "3",
+        "title": "Walk with Me",
+        "date": "2012-10-28"
+      },
+      {
+        "no": "4",
+        "title": "Killer Within",
+        "date": "2012-11-04"
+      },
+      {
+        "no": "5",
+        "title": "Say the Word",
+        "date": "2012-11-11"
+      },
+      {
+        "no": "6",
+        "title": "Hounded",
+        "date": "2012-11-18"
+      },
+      {
+        "no": "7",
+        "title": "When the Dead Come Knocking",
+        "date": "2012-11-25"
+      },
+      {
+        "no": "8",
+        "title": "Made to Suffer",
+        "date": "2012-12-02"
+      },
+      {
+        "no": "9",
+        "title": "The Suicide King",
+        "date": "2013-02-10"
+      },
+      {
+        "no": "10",
+        "title": "Home",
+        "date": "2013-02-17"
+      },
+      {
+        "no": "11",
+        "title": "I Ain't a Judas",
+        "date": "2013-02-24"
+      },
+      {
+        "no": "12",
+        "title": "Clear",
+        "date": "2013-03-03"
+      },
+      {
+        "no": "13",
+        "title": "Arrow on the Doorpost",
+        "date": "2013-03-10"
+      },
+      {
+        "no": "14",
+        "title": "Prey",
+        "date": "2013-03-17"
+      },
+      {
+        "no": "15",
+        "title": "This Sorrowful Life",
+        "date": "2013-03-24"
+      },
+      {
+        "no": "16",
+        "title": "Welcome to the Tombs",
+        "date": "2013-03-31"
+      }
+    ]
+  },
+  {
+    "season": "4",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "30 Days Without an Accident",
+        "date": "2013-10-13"
+      },
+      {
+        "no": "2",
+        "title": "Infected",
+        "date": "2013-10-20"
+      },
+      {
+        "no": "3",
+        "title": "Isolation",
+        "date": "2013-10-27"
+      },
+      {
+        "no": "4",
+        "title": "Indifference",
+        "date": "2013-11-03"
+      },
+      {
+        "no": "5",
+        "title": "Internment",
+        "date": "2013-11-10"
+      },
+      {
+        "no": "6",
+        "title": "Live Bait",
+        "date": "2013-11-17"
+      },
+      {
+        "no": "7",
+        "title": "Dead Weight",
+        "date": "2013-11-24"
+      },
+      {
+        "no": "8",
+        "title": "Too Far Gone",
+        "date": "2013-12-01"
+      },
+      {
+        "no": "9",
+        "title": "After",
+        "date": "2014-02-09"
+      },
+      {
+        "no": "10",
+        "title": "Inmates",
+        "date": "2014-02-16"
+      },
+      {
+        "no": "11",
+        "title": "Claimed",
+        "date": "2014-02-23"
+      },
+      {
+        "no": "12",
+        "title": "Still",
+        "date": "2014-03-02"
+      },
+      {
+        "no": "13",
+        "title": "Alone",
+        "date": "2014-03-09"
+      },
+      {
+        "no": "14",
+        "title": "The Grove",
+        "date": "2014-03-16"
+      },
+      {
+        "no": "15",
+        "title": "Us",
+        "date": "2014-03-23"
+      },
+      {
+        "no": "16",
+        "title": "A",
+        "date": "2014-03-30"
+      }
+    ]
+  },
+  {
+    "season": "5",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "No Sanctuary",
+        "date": "2014-10-12"
+      },
+      {
+        "no": "2",
+        "title": "Strangers",
+        "date": "2014-10-19"
+      },
+      {
+        "no": "3",
+        "title": "Four Walls and a Roof",
+        "date": "2014-10-26"
+      },
+      {
+        "no": "4",
+        "title": "Slabtown",
+        "date": "2014-11-02"
+      },
+      {
+        "no": "5",
+        "title": "Self Help",
+        "date": "2014-11-09"
+      },
+      {
+        "no": "6",
+        "title": "Consumed",
+        "date": "2014-11-16"
+      },
+      {
+        "no": "7",
+        "title": "Crossed",
+        "date": "2014-11-23"
+      },
+      {
+        "no": "8",
+        "title": "Coda",
+        "date": "2014-11-30"
+      },
+      {
+        "no": "9",
+        "title": "What Happened and What's Going On",
+        "date": "2015-02-08"
+      },
+      {
+        "no": "10",
+        "title": "Them",
+        "date": "2015-02-15"
+      },
+      {
+        "no": "11",
+        "title": "The Distance",
+        "date": "2015-02-22"
+      },
+      {
+        "no": "12",
+        "title": "Remember",
+        "date": "2015-03-01"
+      },
+      {
+        "no": "13",
+        "title": "Forget",
+        "date": "2015-03-08"
+      },
+      {
+        "no": "14",
+        "title": "Spend",
+        "date": "2015-03-15"
+      },
+      {
+        "no": "15",
+        "title": "Try",
+        "date": "2015-03-22"
+      },
+      {
+        "no": "16",
+        "title": "Conquer",
+        "date": "2015-03-29"
+      }
+    ]
+  },
+  {
+    "season": "6",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "First Time Again",
+        "date": "2015-10-11"
+      },
+      {
+        "no": "2",
+        "title": "JSS",
+        "date": "2015-10-18"
+      },
+      {
+        "no": "3",
+        "title": "Thank You\"[74",
+        "date": "2015-10-25"
+      },
+      {
+        "no": "4",
+        "title": "B",
+        "date": "2015-11-01"
+      },
+      {
+        "no": "5",
+        "title": "B",
+        "date": "2015-11-08"
+      },
+      {
+        "no": "6",
+        "title": "B",
+        "date": "2015-11-15"
+      },
+      {
+        "no": "7",
+        "title": "B",
+        "date": "2015-11-22"
+      },
+      {
+        "no": "8",
+        "title": "B",
+        "date": "2015-11-29"
+      },
+      {
+        "no": "9",
+        "title": "B",
+        "date": "2016-02-14"
+      },
+      {
+        "no": "10",
+        "title": "B",
+        "date": "2016-02-21"
+      },
+      {
+        "no": "11",
+        "title": "B",
+        "date": "2016-02-28"
+      },
+      {
+        "no": "12",
+        "title": "B",
+        "date": "2016-03-06"
+      },
+      {
+        "no": "13",
+        "title": "B",
+        "date": "2016-03-13"
+      },
+      {
+        "no": "14",
+        "title": "B",
+        "date": "2016-03-20"
+      },
+      {
+        "no": "15",
+        "title": "B",
+        "date": "2016-03-27"
+      },
+      {
+        "no": "16",
+        "title": "B",
+        "date": "2016-04-03"
+      }
+    ]
+  }
+]

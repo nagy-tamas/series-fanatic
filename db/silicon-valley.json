@@ -1,0 +1,102 @@
+[
+  {
+    "season": "1",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Minimum Viable Product",
+        "date": "2014-04-06"
+      },
+      {
+        "no": "2",
+        "title": "The Cap Table",
+        "date": "2014-04-13"
+      },
+      {
+        "no": "3",
+        "title": "Articles of Incorporation",
+        "date": "2014-04-20"
+      },
+      {
+        "no": "4",
+        "title": "Fiduciary Duties",
+        "date": "2014-04-27"
+      },
+      {
+        "no": "5",
+        "title": "Signaling Risk",
+        "date": "2014-05-04"
+      },
+      {
+        "no": "6",
+        "title": "Third Party Insourcing",
+        "date": "2014-05-11"
+      },
+      {
+        "no": "7",
+        "title": "Proof of Concept",
+        "date": "2014-05-18"
+      },
+      {
+        "no": "8",
+        "title": "Optimal Tip-to-Tip Efficiency",
+        "date": "2014-06-01"
+      }
+    ]
+  },
+  {
+    "season": "2",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Sand Hill Shuffle",
+        "date": "2015-04-12"
+      },
+      {
+        "no": "2",
+        "title": "Runaway Devaluation",
+        "date": "2015-04-19"
+      },
+      {
+        "no": "3",
+        "title": "Bad Money",
+        "date": "2015-04-26"
+      },
+      {
+        "no": "4",
+        "title": "The Lady",
+        "date": "2015-05-03"
+      },
+      {
+        "no": "5",
+        "title": "Server Space",
+        "date": "2015-05-10"
+      },
+      {
+        "no": "6",
+        "title": "Homicide",
+        "date": "2015-05-17"
+      },
+      {
+        "no": "7",
+        "title": "Adult Content",
+        "date": "2015-05-24"
+      },
+      {
+        "no": "8",
+        "title": "White Hat/Black Hat",
+        "date": "2015-05-31"
+      },
+      {
+        "no": "9",
+        "title": "Binding Arbitration",
+        "date": "2015-06-07"
+      },
+      {
+        "no": "10",
+        "title": "Two Days of the Condor",
+        "date": "2015-06-14"
+      }
+    ]
+  }
+]

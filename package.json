@@ -1,0 +1,25 @@
+{
+  "name": "series-fanatic",
+  "version": "0.0.1",
+  "description": "A command line tool to list episodes of series aired in the close past and future, so you won't miss anything.",
+  "main": "check.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nagy-tamas/series-fanatic"
+  },
+  "keywords": [
+    "series",
+    "reminder"
+  ],
+  "author": "nagy.tamas",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "lodash": "^3.10.1",
+    "request": "^2.65.0",
+    "yargs": "^3.27.0"
+  }
+}
