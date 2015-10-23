@@ -30,7 +30,7 @@ Copy the file `./config/config.sample.js` to `./config/config.js`. Remove the sh
 
 ## How to use
 
-Just run the following command in it's directory:
+Just run the following command in the project's folder:
 
 ```
 npm check

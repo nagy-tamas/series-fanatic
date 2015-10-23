@@ -1,0 +1,522 @@
+[
+  {
+    "season": "1",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Pilot",
+        "date": "2011-10-23"
+      },
+      {
+        "no": "2",
+        "title": "The Thing You Love Most",
+        "date": "2011-10-30"
+      },
+      {
+        "no": "3",
+        "title": "Snow Falls",
+        "date": "2011-11-06"
+      },
+      {
+        "no": "4",
+        "title": "The Price of Gold",
+        "date": "2011-11-13"
+      },
+      {
+        "no": "5",
+        "title": "That Still Small Voice",
+        "date": "2011-11-27"
+      },
+      {
+        "no": "6",
+        "title": "The Shepherd",
+        "date": "2011-12-04"
+      },
+      {
+        "no": "7",
+        "title": "The Heart Is a Lonely Hunter",
+        "date": "2011-12-11"
+      },
+      {
+        "no": "8",
+        "title": "Desperate Souls",
+        "date": "2012-01-08"
+      },
+      {
+        "no": "9",
+        "title": "True North",
+        "date": "2012-01-15"
+      },
+      {
+        "no": "10",
+        "title": "7:15 A.M.",
+        "date": "2012-01-22"
+      },
+      {
+        "no": "11",
+        "title": "Fruit of the Poisonous Tree",
+        "date": "2012-01-29"
+      },
+      {
+        "no": "12",
+        "title": "Skin Deep",
+        "date": "2012-02-12"
+      },
+      {
+        "no": "13",
+        "title": "What Happened to Frederick",
+        "date": "2012-02-19"
+      },
+      {
+        "no": "14",
+        "title": "Dreamy",
+        "date": "2012-03-04"
+      },
+      {
+        "no": "15",
+        "title": "Red-Handed",
+        "date": "2012-03-11"
+      },
+      {
+        "no": "16",
+        "title": "Heart of Darkness",
+        "date": "2012-03-18"
+      },
+      {
+        "no": "17",
+        "title": "Hat Trick",
+        "date": "2012-03-25"
+      },
+      {
+        "no": "18",
+        "title": "The Stable Boy",
+        "date": "2012-04-01"
+      },
+      {
+        "no": "19",
+        "title": "The Return",
+        "date": "2012-04-22"
+      },
+      {
+        "no": "20",
+        "title": "The Stranger",
+        "date": "2012-04-29"
+      },
+      {
+        "no": "21",
+        "title": "An Apple Red as Blood",
+        "date": "2012-05-06"
+      },
+      {
+        "no": "22",
+        "title": "A Land Without Magic",
+        "date": "2012-05-13"
+      }
+    ]
+  },
+  {
+    "season": "2",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Broken",
+        "date": "2012-09-30"
+      },
+      {
+        "no": "2",
+        "title": "We Are Both",
+        "date": "2012-10-07"
+      },
+      {
+        "no": "3",
+        "title": "Lady of the Lake",
+        "date": "2012-10-14"
+      },
+      {
+        "no": "4",
+        "title": "The Crocodile",
+        "date": "2012-10-21"
+      },
+      {
+        "no": "5",
+        "title": "The Doctor",
+        "date": "2012-10-28"
+      },
+      {
+        "no": "6",
+        "title": "Tallahassee",
+        "date": "2012-11-04"
+      },
+      {
+        "no": "7",
+        "title": "Child of the Moon",
+        "date": "2012-11-11"
+      },
+      {
+        "no": "8",
+        "title": "Into the Deep",
+        "date": "2012-11-25"
+      },
+      {
+        "no": "9",
+        "title": "Queen of Hearts",
+        "date": "2012-12-02"
+      },
+      {
+        "no": "10",
+        "title": "The Cricket Game",
+        "date": "2013-01-06"
+      },
+      {
+        "no": "11",
+        "title": "The Outsider",
+        "date": "2013-01-13"
+      },
+      {
+        "no": "12",
+        "title": "In the Name of the Brother",
+        "date": "2013-01-20"
+      },
+      {
+        "no": "13",
+        "title": "Tiny",
+        "date": "2013-02-10"
+      },
+      {
+        "no": "14",
+        "title": "Manhattan",
+        "date": "2013-02-17"
+      },
+      {
+        "no": "15",
+        "title": "The Queen Is Dead",
+        "date": "2013-03-03"
+      },
+      {
+        "no": "16",
+        "title": "The Miller's Daughter",
+        "date": "2013-03-10"
+      },
+      {
+        "no": "17",
+        "title": "Welcome to Storybrooke",
+        "date": "2013-03-17"
+      },
+      {
+        "no": "18",
+        "title": "Selfless, Brave and True",
+        "date": "2013-03-24"
+      },
+      {
+        "no": "19",
+        "title": "Lacey",
+        "date": "2013-04-21"
+      },
+      {
+        "no": "20",
+        "title": "The Evil Queen",
+        "date": "2013-04-28"
+      },
+      {
+        "no": "21",
+        "title": "Second Star to the Right",
+        "date": "2013-05-05"
+      },
+      {
+        "no": "22",
+        "title": "And Straight On 'til Morning",
+        "date": "2013-05-12"
+      }
+    ]
+  },
+  {
+    "season": "3",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "The Heart of the Truest Believer",
+        "date": "2013-09-29"
+      },
+      {
+        "no": "2",
+        "title": "Lost Girl",
+        "date": "2013-10-06"
+      },
+      {
+        "no": "3",
+        "title": "Quite a Common Fairy",
+        "date": "2013-10-13"
+      },
+      {
+        "no": "4",
+        "title": "Nasty Habits",
+        "date": "2013-10-20"
+      },
+      {
+        "no": "5",
+        "title": "Good Form",
+        "date": "2013-10-27"
+      },
+      {
+        "no": "6",
+        "title": "Ariel",
+        "date": "2013-11-03"
+      },
+      {
+        "no": "7",
+        "title": "Dark Hollow",
+        "date": "2013-11-10"
+      },
+      {
+        "no": "8",
+        "title": "Think Lovely Thoughts",
+        "date": "2013-11-17"
+      },
+      {
+        "no": "9",
+        "title": "Save Henry",
+        "date": "2013-12-01"
+      },
+      {
+        "no": "10",
+        "title": "The New Neverland",
+        "date": "2013-12-08"
+      },
+      {
+        "no": "11",
+        "title": "Going Home",
+        "date": "2013-12-15"
+      },
+      {
+        "no": "12",
+        "title": "New York City Serenade",
+        "date": "2014-03-09"
+      },
+      {
+        "no": "13",
+        "title": "Witch Hunt",
+        "date": "2014-03-16"
+      },
+      {
+        "no": "14",
+        "title": "The Tower",
+        "date": "2014-03-23"
+      },
+      {
+        "no": "15",
+        "title": "Quiet Minds",
+        "date": "2014-03-30"
+      },
+      {
+        "no": "16",
+        "title": "It's Not Easy Being Green",
+        "date": "2014-04-06"
+      },
+      {
+        "no": "17",
+        "title": "The Jolly Roger",
+        "date": "2014-04-13"
+      },
+      {
+        "no": "18",
+        "title": "Bleeding Through",
+        "date": "2014-04-20"
+      },
+      {
+        "no": "19",
+        "title": "A Curious Thing",
+        "date": "2014-04-27"
+      },
+      {
+        "no": "20",
+        "title": "Kansas",
+        "date": "2014-05-04"
+      },
+      {
+        "no": "21",
+        "title": "Snow Drifts",
+        "date": "2014-05-11"
+      },
+      {
+        "no": "22",
+        "title": "There's No Place Like Home",
+        "date": "2014-05-11"
+      }
+    ]
+  },
+  {
+    "season": "4",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "A Tale of Two Sisters",
+        "date": "2014-09-28"
+      },
+      {
+        "no": "2",
+        "title": "White Out",
+        "date": "2014-10-05"
+      },
+      {
+        "no": "3",
+        "title": "Rocky Road",
+        "date": "2014-10-12"
+      },
+      {
+        "no": "4",
+        "title": "The Apprentice",
+        "date": "2014-10-19"
+      },
+      {
+        "no": "5",
+        "title": "Breaking Glass",
+        "date": "2014-10-26"
+      },
+      {
+        "no": "6",
+        "title": "Family Business",
+        "date": "2014-11-02"
+      },
+      {
+        "no": "7",
+        "title": "The Snow Queen",
+        "date": "2014-11-09"
+      },
+      {
+        "no": "8",
+        "title": "Smash the Mirror",
+        "date": "2014-11-16"
+      },
+      {
+        "no": "9",
+        "title": "Fall",
+        "date": "2014-11-30"
+      },
+      {
+        "no": "10",
+        "title": "Shattered Sight",
+        "date": "2014-12-07"
+      },
+      {
+        "no": "11",
+        "title": "Heroes and Villains",
+        "date": "2014-12-14"
+      },
+      {
+        "no": "12",
+        "title": "Darkness on the Edge of Town",
+        "date": "2015-03-01"
+      },
+      {
+        "no": "13",
+        "title": "Unforgiven",
+        "date": "2015-03-08"
+      },
+      {
+        "no": "14",
+        "title": "Enter the Dragon",
+        "date": "2015-03-15"
+      },
+      {
+        "no": "15",
+        "title": "Poor Unfortunate Soul",
+        "date": "2015-03-22"
+      },
+      {
+        "no": "16",
+        "title": "Best Laid Plans",
+        "date": "2015-03-29"
+      },
+      {
+        "no": "17",
+        "title": "Heart of Gold",
+        "date": "2015-04-12"
+      },
+      {
+        "no": "18",
+        "title": "Sympathy for the De Vil",
+        "date": "2015-04-19"
+      },
+      {
+        "no": "19",
+        "title": "Lily",
+        "date": "2015-04-26"
+      },
+      {
+        "no": "20",
+        "title": "Mother",
+        "date": "2015-05-03"
+      },
+      {
+        "no": "21",
+        "title": "Operation Mongoose, Part 1",
+        "date": "2015-05-10"
+      },
+      {
+        "no": "22",
+        "title": "Operation Mongoose, Part 2",
+        "date": "2015-05-10"
+      }
+    ]
+  },
+  {
+    "season": "5",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "The Dark Swan",
+        "date": "2015-09-27"
+      },
+      {
+        "no": "2",
+        "title": "The Price",
+        "date": "2015-10-04"
+      },
+      {
+        "no": "3",
+        "title": "Siege Perilous",
+        "date": "2015-10-11"
+      },
+      {
+        "no": "4",
+        "title": "The Broken Kingdom",
+        "date": "2015-10-18"
+      },
+      {
+        "no": "5",
+        "title": "Dreamcatcher\"[104",
+        "date": "2015-10-25"
+      },
+      {
+        "no": "6",
+        "title": "The Bear and the Bow\"[105",
+        "date": "2015-11-01"
+      },
+      {
+        "no": "7",
+        "title": "Nimue\"[107",
+        "date": "2015-11-08"
+      },
+      {
+        "no": "8",
+        "title": "Birth\"[108",
+        "date": "N/A"
+      },
+      {
+        "no": "9",
+        "title": "The Bear King\"[109",
+        "date": "N/A"
+      },
+      {
+        "no": "10",
+        "title": "Broken Heart\"[110",
+        "date": "N/A"
+      },
+      {
+        "no": "11",
+        "title": "Swan Song\"[111",
+        "date": "N/A"
+      }
+    ]
+  }
+]

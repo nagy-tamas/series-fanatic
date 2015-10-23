@@ -1,15 +1,12 @@
-var db = require('./db/db'),
-  utils = require('./lib/utils'),
-  _ = require('lodash'),
-  fs = require('fs'),
-  beforeDays = 7,
-  afterDays = 7;
+var seriesData = require('./config/series-data'),
+    userConfig = require('./config/config'),
+    utils = require('./lib/utils'),
+    _ = require('lodash'),
+    fs = require('fs');
 
 var getJSONs = function(series) {
-  var files = fs.readdirSync('./db');
-
   for (var ser in series) {
-    var fileName = './db/' + utils.slugName(ser) + '.json';
+    var fileName = './cache/' + utils.getSlugNameFor(ser) + '.json';
     if (!fs.existsSync(fileName)) {
       console.error('json for "', ser, '" not exists. Filename should be: ', fileName);
       continue;
@@ -29,8 +26,8 @@ var includeJSONs = function(series) {
 
 var checkDates = function(series, date) {
   var showsBefore = [], showsAfter = [],
-    beforeDate = date.getTime() - beforeDays * 1000 * 24 * 60 * 60,
-    afterDate = date.getTime() + afterDays * 1000 * 24 * 60 * 60,
+    beforeDate = date.getTime() - userConfig.beforeDays * 1000 * 24 * 60 * 60,
+    afterDate = date.getTime() + userConfig.afterDays * 1000 * 24 * 60 * 60,
     nowDate = date.getTime();
 
   _.each(series, function(data, key) {
@@ -70,7 +67,7 @@ var formatDate = function(date) {
     ' (' + dayText + ')';
 };
 
-var writeShowInfo = function(show) {
+var echoShowInfo = function(show) {
   console.log(
     formatDate(show.episode.dateObj),
     ' - ',
@@ -80,15 +77,15 @@ var writeShowInfo = function(show) {
   );
 };
 
-getJSONs(db.series);
-includeJSONs(db.series);
+getJSONs(seriesData);
+includeJSONs(seriesData);
 
-var shows = checkDates(db.series, new Date);
+var shows = checkDates(seriesData, new Date);
 
 for (var i in shows.showsBefore) {
-  writeShowInfo(shows.showsBefore[i]);
+  echoShowInfo(shows.showsBefore[i]);
 }
 console.log('-------- NOW ---------');
 for (var i in shows.showsBefore) {
-  writeShowInfo(shows.showsAfter[i]);
+  echoShowInfo(shows.showsAfter[i]);
 }

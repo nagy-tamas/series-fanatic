@@ -8,7 +8,7 @@ module.exports = {
   'American Horror Story': {
     wikiUrl: 'https://en.wikipedia.org/wiki/List_of_American_Horror_Story_episodes'
   },
-  'Halt and Catch Fire': { // fix
+  'Halt and Catch Fire': {
     wikiUrl: 'https://en.wikipedia.org/wiki/List_of_Halt_and_Catch_Fire_episodes'
   },
   'Mike & Molly': {
@@ -17,10 +17,11 @@ module.exports = {
   'Modern Family': {
     wikiUrl: 'http://en.wikipedia.org/wiki/List_of_Modern_Family_episodes'
   },
-  'Mr. Robot': { // fix
-    wikiUrl: 'https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)'
+  'Mr. Robot': {
+    wikiUrl: 'https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)',
+    wikiTable: 'detailed'
   },
-  'Once upon a Time': { // fix
+  'Once upon a Time': {
     wikiUrl: 'http://en.wikipedia.org/wiki/List_of_Once_Upon_a_Time_episodes'
   },
   'South Park': {

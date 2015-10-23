@@ -1,0 +1,112 @@
+[
+  {
+    "season": "1",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "I/O",
+        "date": "2014-06-01"
+      },
+      {
+        "no": "2",
+        "title": "FUD",
+        "date": "2014-06-08"
+      },
+      {
+        "no": "3",
+        "title": "High Plains Hardware",
+        "date": "2014-06-15"
+      },
+      {
+        "no": "4",
+        "title": "Close to the Metal",
+        "date": "2014-06-22"
+      },
+      {
+        "no": "5",
+        "title": "Adventure",
+        "date": "2014-06-29"
+      },
+      {
+        "no": "6",
+        "title": "Landfall",
+        "date": "2014-07-06"
+      },
+      {
+        "no": "7",
+        "title": "Giant",
+        "date": "2014-07-13"
+      },
+      {
+        "no": "8",
+        "title": "The 214s",
+        "date": "2014-07-20"
+      },
+      {
+        "no": "9",
+        "title": "Up Helly Aa",
+        "date": "2014-07-27"
+      },
+      {
+        "no": "10",
+        "title": "1984",
+        "date": "2014-08-03"
+      }
+    ]
+  },
+  {
+    "season": "2",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "SETI",
+        "date": "2015-05-31"
+      },
+      {
+        "no": "2",
+        "title": "New Coke",
+        "date": "2015-06-07"
+      },
+      {
+        "no": "3",
+        "title": "The Way In",
+        "date": "2015-06-14"
+      },
+      {
+        "no": "4",
+        "title": "Play with Friends",
+        "date": "2015-06-21"
+      },
+      {
+        "no": "5",
+        "title": "Extract and Defend",
+        "date": "2015-06-28"
+      },
+      {
+        "no": "6",
+        "title": "10Broad36",
+        "date": "2015-07-05"
+      },
+      {
+        "no": "7",
+        "title": "Working for the Clampdown",
+        "date": "2015-07-12"
+      },
+      {
+        "no": "8",
+        "title": "Limbo",
+        "date": "2015-07-19"
+      },
+      {
+        "no": "9",
+        "title": "Kali",
+        "date": "2015-07-26"
+      },
+      {
+        "no": "10",
+        "title": "Heaven Is a Place",
+        "date": "2015-08-02"
+      }
+    ]
+  }
+]

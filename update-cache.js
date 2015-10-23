@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////////////
-// This is a CLI tool to update a seeries' data from wikipedia //
+// This is a CLI tool to update a series' data from wikipedia //
 /////////////////////////////////////////////////////////////////
 
 var seriesData = require('./config/series-data'),
@@ -19,7 +19,7 @@ if (argv.shows === 'all') {
 } else if (argv.shows === 'favs') {
   seriesNames = userConfig.interestedIn
 } else {
-  seriesNames.push(argv.shows);
+  seriesNames = [argv.shows];
 }
 
 var processSeries = function(seriesName) {
@@ -32,7 +32,7 @@ var processSeries = function(seriesName) {
 
   slug = utils.getSlugNameFor(seriesName);
 
-  utils.updateCacheFromWiki(seriesRecord)
+  return utils.updateCacheFromWiki(seriesRecord)
     .then(function(json) {
       return utils.writeJSON('./cache/' + slug + '.json', json);
     })
@@ -45,4 +45,11 @@ var processSeries = function(seriesName) {
     });
 };
 
-processSeries(seriesNames[0]);
+var promisesChain = processSeries(seriesNames[0]);
+for (var i = 1; i < seriesNames.length; i++) {
+  (function(i) {
+    promisesChain = promisesChain.then(function() {
+      return processSeries(seriesNames[i]);
+    });
+  })(i);
+}

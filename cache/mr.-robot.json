@@ -1,0 +1,57 @@
+[
+  {
+    "season": "1",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "eps1.0_hellofriend.mov",
+        "date": "2015-06-24"
+      },
+      {
+        "no": "2",
+        "title": "eps1.1_ones-and-zer0es.mpeg",
+        "date": "2015-07-01"
+      },
+      {
+        "no": "3",
+        "title": "eps1.2_d3bug.mkv",
+        "date": "2015-07-08"
+      },
+      {
+        "no": "4",
+        "title": "eps1.3_da3m0ns.mp4",
+        "date": "2015-07-15"
+      },
+      {
+        "no": "5",
+        "title": "eps1.4_3xpl0its.wmv",
+        "date": "2015-07-22"
+      },
+      {
+        "no": "6",
+        "title": "eps1.5_br4ve-trave1er.asf",
+        "date": "2015-07-29"
+      },
+      {
+        "no": "7",
+        "title": "eps1.6_v1ew-s0urce.flv",
+        "date": "2015-08-05"
+      },
+      {
+        "no": "8",
+        "title": "eps1.7_wh1ter0se.m4v",
+        "date": "2015-08-12"
+      },
+      {
+        "no": "9",
+        "title": "eps1.8_m1rr0r1ng.qt",
+        "date": "2015-08-19"
+      },
+      {
+        "no": "10",
+        "title": "eps1.9_zer0-day.avi",
+        "date": "2015-09-02"
+      }
+    ]
+  }
+]
