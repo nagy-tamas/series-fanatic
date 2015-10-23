@@ -1,13 +1,10 @@
 ## This project is not ready yet.
 
 # series-fanatic
+
+## What is this?
+
 A command line tool to list episodes of series aired in the close past and future, so you won't miss anything.
-
-## To use, run
-
-```
-npm check
-```
 
 Sample output:
 
@@ -25,3 +22,27 @@ Sample output:
 2015-10-26 (Mon)  -  The Big Bang Theory S9#6: The Helium Insufficiency
 2015-10-28 (Wed)  -  American Horror Story S5#4: Devil's Night
 ```
+
+## Setup
+
+Copy the file `./config/config.sample.js` to `./config/config.js`. Remove the shows you're not interested in. See the other options as well.
+
+
+## How to use
+
+Just run the following command in it's directory:
+
+```
+npm check
+```
+
+
+## Updating the db
+
+The `cache` dir needs to be updated occasionally to be updated for the newer episodes. You need to run the following command for that:
+
+```
+npm update-cache
+```
+
+You can also `git pull` this repo from time to time, I try to keep it as updated as I can.

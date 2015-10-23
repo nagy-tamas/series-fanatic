@@ -3,29 +3,46 @@
 /////////////////////////////////////////////////////////////////
 
 var seriesData = require('./config/series-data'),
-  utils =   require('./lib/utils');
+    userConfig = require('./config/config'),
+    utils =   require('./lib/utils'),
+    _ = require('lodash');
 
 var argv = require('yargs')
-  .default('s', 'Family Guy')
+  // could be a series' name, 'all' for everything, or 'favs' for the interested ones
+  .default('shows', 'favs')
   .argv,
-  seriesName = argv.s,
+  seriesNames,
   slug;
 
-var seriesRecord = utils.findSeriesByTitle(seriesName, seriesData);
-if (!seriesRecord) {
-  process.exit(1);
+if (argv.shows === 'all') {
+  seriesNames = _.pluck(seriesData, 'key');
+} else if (argv.shows === 'favs') {
+  seriesNames = userConfig.interestedIn
+} else {
+  seriesNames.push(argv.shows);
 }
 
-slug = utils.getSlugNameFor(seriesName);
+var processSeries = function(seriesName) {
+  console.log('Updating cache for', seriesName, '...');
 
-utils.updateCacheFromWiki(seriesRecord)
-  .then(function(json) {
-    return utils.writeJSON('./cache/' + slug + '.json', json);
-  })
-  .then(function() {
-    console.log('Everything worked out fine, the ', slug, ' cache was updated.');
-  })
-  .catch(function(err) {
-    console.error('Some error happened during updating:', seriesName, ', halted. Details:');
-    console.error(err);
-  });
+  var seriesRecord = utils.findSeriesByTitle(seriesName, seriesData);
+  if (!seriesRecord) {
+    process.exit(1);
+  }
+
+  slug = utils.getSlugNameFor(seriesName);
+
+  utils.updateCacheFromWiki(seriesRecord)
+    .then(function(json) {
+      return utils.writeJSON('./cache/' + slug + '.json', json);
+    })
+    .then(function() {
+      console.log('Everything worked out fine, the ', slug, ' cache was updated.');
+    })
+    .catch(function(err) {
+      console.error('Some error happened during updating:', seriesName, ', halted. Details:');
+      console.error(err);
+    });
+};
+
+processSeries(seriesNames[0]);
