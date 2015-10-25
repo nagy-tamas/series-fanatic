@@ -1,5 +1,3 @@
-## This project is not ready yet.
-
 # series-fanatic
 
 ## What is this?
@@ -46,3 +44,8 @@ npm update-cache
 ```
 
 You can also `git pull` this repo from time to time, I try to keep it as updated as I can.
+
+
+## Help needed
+
+If your favourite show is missing, please make a github issue, or add it by yourself (it's really easy), and make a pull request.
