@@ -1,6 +1,15 @@
 var seriesData = require('./config/series-data'),
-    userConfig = require('./config/config'),
-    utils = require('./lib/utils');
+    utils = require('./lib/utils'),
+    fs = require('fs');
+
+
+if (!fs.existsSync('./config/config.js')) {
+  console.error('./config/config.js cannot be found. Please make a copy of ./config/config.sample.js under that name, and edit it for your needs.');
+  process.exit(-1);
+}
+
+var userConfig = require('./config/config');
+
 
 var echoShowInfo = function(show) {
   console.log(

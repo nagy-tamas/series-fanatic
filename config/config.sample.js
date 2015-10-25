@@ -9,5 +9,5 @@ module.exports = {
 
   // time intervals to list episodes before and after NOW
   beforeDays: 7,
-  afterDays: 10
+  afterDays: 15
 };
