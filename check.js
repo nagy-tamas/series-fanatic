@@ -23,7 +23,10 @@ var echoShowInfo = function(show) {
 
 utils.extendWithJSONs(seriesData);
 
-var shows = utils.populateEpisodes(seriesData, new Date, userConfig.beforeDays, userConfig.afterDays);
+var now = new Date;
+now.setTime(now.getTime() - 24 * 60 * 60 * 1000);
+
+var shows = utils.populateEpisodes(seriesData, now, userConfig.beforeDays, userConfig.afterDays);
 
 for (var i in shows.showsBefore) {
   echoShowInfo(shows.showsBefore[i]);
