@@ -1,0 +1,57 @@
+[
+  {
+    "season": "1",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "El Jefe",
+        "date": "2015-10-31"
+      },
+      {
+        "no": "2",
+        "title": "Bait",
+        "date": "2015-11-07"
+      },
+      {
+        "no": "3",
+        "title": "Books from Beyond",
+        "date": "2015-11-14"
+      },
+      {
+        "no": "4",
+        "title": "Brujo",
+        "date": "2015-11-21"
+      },
+      {
+        "no": "5",
+        "title": "The Host",
+        "date": "2015-11-28"
+      },
+      {
+        "no": "6",
+        "title": "The Killer of Killers",
+        "date": "2015-12-05"
+      },
+      {
+        "no": "7",
+        "title": "Fire in the Hole",
+        "date": "2015-12-12"
+      },
+      {
+        "no": "8",
+        "title": "Ashes to Ashes",
+        "date": "2015-12-19"
+      },
+      {
+        "no": "9",
+        "title": "Bound in the Flesh",
+        "date": "2015-12-26"
+      },
+      {
+        "no": "10",
+        "title": "The Dark One",
+        "date": "2016-01-02"
+      }
+    ]
+  }
+]

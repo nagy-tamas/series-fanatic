@@ -1,0 +1,57 @@
+[
+  {
+    "season": 1,
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Pilot",
+        "date": "2015-06-21"
+      },
+      {
+        "no": "2",
+        "title": "Half-Cocked",
+        "date": "2015-06-28"
+      },
+      {
+        "no": "3",
+        "title": "Baghdad My Ass",
+        "date": "2015-07-05"
+      },
+      {
+        "no": "4",
+        "title": "I'll Never Be Batman",
+        "date": "2015-07-12"
+      },
+      {
+        "no": "5",
+        "title": "Swim, Shmuley, Swim",
+        "date": "2015-07-19"
+      },
+      {
+        "no": "6",
+        "title": "Tweet Tweet Tweet",
+        "date": "2015-07-26"
+      },
+      {
+        "no": "7",
+        "title": "Sticky Wicket",
+        "date": "2015-08-02"
+      },
+      {
+        "no": "8",
+        "title": "Who's Grover Cleveland?",
+        "date": "2015-08-09"
+      },
+      {
+        "no": "9",
+        "title": "Just a Little Crazy Talk",
+        "date": "2015-08-16"
+      },
+      {
+        "no": "10",
+        "title": "There Will Be Consequences",
+        "date": "2015-08-23"
+      }
+    ]
+  }
+]

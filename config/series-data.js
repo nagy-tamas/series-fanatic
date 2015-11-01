@@ -19,7 +19,7 @@ module.exports = {
   },
   'Mr. Robot': {
     wikiUrl: 'https://en.wikipedia.org/wiki/Mr._Robot_(TV_series)',
-    wikiTable: 'detailed'
+    rowFormat: ['episodeNo', 'episodeTitle', null, null, 'date']
   },
   'Once upon a Time': {
     wikiUrl: 'http://en.wikipedia.org/wiki/List_of_Once_Upon_a_Time_episodes'
@@ -38,5 +38,13 @@ module.exports = {
   },
   'Game of Thrones': {
     wikiUrl: 'https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes'
+  },
+  'Ash vs. Evil Dead': {
+    wikiUrl: 'https://en.wikipedia.org/wiki/Ash_vs._Evil_Dead',
+    rowFormat: ['episodeNo', 'episodeTitle', null, null, 'date']
+  },
+  'The Brink': {
+    wikiUrl: 'https://en.wikipedia.org/wiki/The_Brink',
+    rowFormat: ['episodeNo', 'episodeTitle', null, null, 'date']
   }
 };
