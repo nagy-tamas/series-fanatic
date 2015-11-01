@@ -58,3 +58,7 @@ You can also `git pull` this repo from time to time, I try to keep it as updated
 ## Help needed
 
 If your favourite show is missing, please create a github issue, or add it by yourself (it's really easy), and make a pull request.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nagy-tamas/series-fanatic/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
