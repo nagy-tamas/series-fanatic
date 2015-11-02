@@ -6,7 +6,7 @@ module.exports = {
     'Halt and Catch Fire', 'Mike & Molly', 'Modern Family', 'Mr. Robot',
     'Once upon a Time', 'South Park', 'Silicon Valley', 'The Simpsons',
     'The Walking Dead', 'Game of Thrones', 'Ash vs. Evil Dead',
-    'The Brink'],
+    'The Brink', 'Brickleberry'],
 
   // time intervals to list episodes before and after NOW
   beforeDays: 7,

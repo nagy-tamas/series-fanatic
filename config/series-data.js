@@ -46,5 +46,8 @@ module.exports = {
   'The Brink': {
     wikiUrl: 'https://en.wikipedia.org/wiki/The_Brink',
     rowFormat: ['episodeNo', 'episodeTitle', null, null, 'date']
+  },
+  'Brickleberry': {
+    wikiUrl: 'https://en.wikipedia.org/wiki/List_of_Brickleberry_episodes'
   }
 };

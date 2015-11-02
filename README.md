@@ -9,17 +9,13 @@ Sample output:
 ```
 node check
 
-2015-10-25 (Sun)  -  Family Guy S14#4: Peternormal Activity
-2015-10-25 (Sun)  -  Once upon a Time S5#5: Dreamcatcher
-2015-10-25 (Sun)  -  The Simpsons S27#5: Treehouse of Horror XXVI
-2015-10-25 (Sun)  -  The Walking Dead S6#3: Thank You
 2015-10-26 (Mon)  -  The Big Bang Theory S9#6: The Helium Insufficiency
 2015-10-28 (Wed)  -  American Horror Story S5#4: Devil's Night
 2015-10-28 (Wed)  -  South Park S19#6: Tweek x Craig
 2015-10-31 (Sat)  -  Ash vs. Evil Dead S1#1: El Jefe
--------- NOW ---------
 2015-11-01 (Sun)  -  Once upon a Time S5#6: The Bear and the Bow
 2015-11-01 (Sun)  -  The Walking Dead S6#4: Here's Not Here
+-------- NOW ---------
 2015-11-04 (Wed)  -  American Horror Story S5#5: Room Service
 2015-11-05 (Thu)  -  The Big Bang Theory S9#7: The Spock Resonance
 2015-11-07 (Sat)  -  Ash vs. Evil Dead S1#2: Bait

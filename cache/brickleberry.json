@@ -1,0 +1,197 @@
+[
+  {
+    "season": "1",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Welcome to Brickleberry",
+        "date": "2012-09-25"
+      },
+      {
+        "no": "2",
+        "title": "Two Weeks Notice",
+        "date": "2012-10-02"
+      },
+      {
+        "no": "3",
+        "title": "Saved by the Balls",
+        "date": "2012-10-09"
+      },
+      {
+        "no": "4",
+        "title": "Squabbits",
+        "date": "2012-10-16"
+      },
+      {
+        "no": "5",
+        "title": "Race Off!",
+        "date": "2012-10-23"
+      },
+      {
+        "no": "6",
+        "title": "Gay Bomb",
+        "date": "2012-10-30"
+      },
+      {
+        "no": "7",
+        "title": "Hello Dottie",
+        "date": "2012-11-13"
+      },
+      {
+        "no": "8",
+        "title": "Steve's Bald",
+        "date": "2012-11-20"
+      },
+      {
+        "no": "9",
+        "title": "Daddy Issues",
+        "date": "2012-11-27"
+      },
+      {
+        "no": "10",
+        "title": "The Dam Show",
+        "date": "2012-12-04"
+      }
+    ]
+  },
+  {
+    "season": "2",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Miracle Lake",
+        "date": "2013-09-03"
+      },
+      {
+        "no": "2",
+        "title": "The Comeback",
+        "date": "2013-09-10"
+      },
+      {
+        "no": "3",
+        "title": "Woody's Girl",
+        "date": "2013-09-17"
+      },
+      {
+        "no": "4",
+        "title": "Trailer Park",
+        "date": "2013-09-24"
+      },
+      {
+        "no": "5",
+        "title": "Crippleberry",
+        "date": "2013-10-01"
+      },
+      {
+        "no": "6",
+        "title": "Ranger Games",
+        "date": "2013-10-08"
+      },
+      {
+        "no": "7",
+        "title": "My Way or the Highway",
+        "date": "2013-10-15"
+      },
+      {
+        "no": "8",
+        "title": "Little Boy Malloy",
+        "date": "2013-10-22"
+      },
+      {
+        "no": "9",
+        "title": "The Animals Strike Back",
+        "date": "2013-10-29"
+      },
+      {
+        "no": "10",
+        "title": "Scared Straight",
+        "date": "2013-11-05"
+      },
+      {
+        "no": "11",
+        "title": "Trip to Mars",
+        "date": "2013-11-12"
+      },
+      {
+        "no": "12",
+        "title": "My Favorite Bear",
+        "date": "2013-11-19"
+      },
+      {
+        "no": "13",
+        "title": "Aparkalypse",
+        "date": "2013-11-26"
+      }
+    ]
+  },
+  {
+    "season": "3",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Obamascare",
+        "date": "2014-09-16"
+      },
+      {
+        "no": "2",
+        "title": "In Da Club",
+        "date": "2014-09-23"
+      },
+      {
+        "no": "3",
+        "title": "Miss National Park",
+        "date": "2014-09-30"
+      },
+      {
+        "no": "4",
+        "title": "That Brother's My Father",
+        "date": "2014-10-07"
+      },
+      {
+        "no": "5",
+        "title": "Write Em' Cowboy",
+        "date": "2014-10-14"
+      },
+      {
+        "no": "6",
+        "title": "Old Wounds",
+        "date": "2014-10-21"
+      },
+      {
+        "no": "7",
+        "title": "Baby Daddy",
+        "date": "2014-10-28"
+      },
+      {
+        "no": "8",
+        "title": "Steve the Fearless Pilot",
+        "date": "2014-11-04"
+      },
+      {
+        "no": "9",
+        "title": "High Stakes",
+        "date": "2014-11-11"
+      },
+      {
+        "no": "10",
+        "title": "Amber Alert",
+        "date": "2014-11-18"
+      },
+      {
+        "no": "11",
+        "title": "Cops and Bottoms",
+        "date": "2015-03-31"
+      },
+      {
+        "no": "12",
+        "title": "Campin' Ain't Easy",
+        "date": "2015-04-07"
+      },
+      {
+        "no": "13",
+        "title": "Global Warning",
+        "date": "2015-04-14"
+      }
+    ]
+  }
+]
