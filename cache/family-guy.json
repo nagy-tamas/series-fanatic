@@ -1339,23 +1339,22 @@
       },
       {
         "no": "6",
-        "title": "A Shot in the Dark",
+        "title": "Peter's Sister",
         "date": "2015-11-15"
       },
       {
         "no": "7",
-        "title": "Peter's Sister",
+        "title": "Hot Pocket-Dial",
         "date": "2015-11-22"
       },
       {
         "no": "8",
-        "title": "Hot Pocket-Dial",
-        "date": "2015-12-06"
-      },
-      {
-        "no": "9",
         "title": "Candy Quahog Marshmallow!",
         "date": "2016-01-03"
+      },
+      {
+        "no": "TBA",
+        "title": "A Shot in the Dark"
       }
     ]
   }
