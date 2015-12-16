@@ -593,5 +593,20 @@
         "date": "2015-05-18"
       }
     ]
+  },
+  {
+    "season": "6",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Cops on the Rocks",
+        "date": "2016-01-06"
+      },
+      {
+        "no": "2",
+        "title": "One Small Step for Mike",
+        "date": "2016-01-13"
+      }
+    ]
   }
 ]
