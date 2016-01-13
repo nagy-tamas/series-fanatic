@@ -1,6 +1,6 @@
 [
   {
-    "season": "1",
+    "season": 1,
     "episodes": [
       {
         "no": "1",
@@ -44,7 +44,7 @@
       },
       {
         "no": "9",
-        "title": "Bound in the Flesh",
+        "title": "Bound in Flesh",
         "date": "2015-12-26"
       },
       {
