@@ -1,6 +1,6 @@
 [
   {
-    "season": 1,
+    "season": "1",
     "episodes": [
       {
         "no": "1",
@@ -53,5 +53,9 @@
         "date": "2016-01-02"
       }
     ]
+  },
+  {
+    "season": "2",
+    "episodes": []
   }
 ]
