@@ -1,0 +1,1087 @@
+[
+  {
+    "season": "1",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Pilot",
+        "date": "1993-09-10"
+      },
+      {
+        "no": "2",
+        "title": "Deep Throat",
+        "date": "1993-09-17"
+      },
+      {
+        "no": "3",
+        "title": "Squeeze",
+        "date": "1993-09-24"
+      },
+      {
+        "no": "4",
+        "title": "Conduit",
+        "date": "1993-10-01"
+      },
+      {
+        "no": "5",
+        "title": "The Jersey Devil",
+        "date": "1993-10-08"
+      },
+      {
+        "no": "6",
+        "title": "Shadows",
+        "date": "1993-10-22"
+      },
+      {
+        "no": "7",
+        "title": "Ghost in the Machine",
+        "date": "1993-10-29"
+      },
+      {
+        "no": "8",
+        "title": "Ice",
+        "date": "1993-11-05"
+      },
+      {
+        "no": "9",
+        "title": "Space",
+        "date": "1993-11-12"
+      },
+      {
+        "no": "10",
+        "title": "Fallen Angel",
+        "date": "1993-11-19"
+      },
+      {
+        "no": "11",
+        "title": "Eve",
+        "date": "1993-12-10"
+      },
+      {
+        "no": "12",
+        "title": "Fire",
+        "date": "1993-12-17"
+      },
+      {
+        "no": "13",
+        "title": "Beyond the Sea",
+        "date": "1994-01-07"
+      },
+      {
+        "no": "14",
+        "title": "Gender Bender",
+        "date": "1994-01-21"
+      },
+      {
+        "no": "15",
+        "title": "Lazarus",
+        "date": "1994-02-04"
+      },
+      {
+        "no": "16",
+        "title": "Young at Heart",
+        "date": "1994-02-11"
+      },
+      {
+        "no": "17",
+        "title": "E.B.E.",
+        "date": "1994-02-18"
+      },
+      {
+        "no": "18",
+        "title": "Miracle Man",
+        "date": "1994-03-18"
+      },
+      {
+        "no": "19",
+        "title": "Shapes",
+        "date": "1994-04-01"
+      },
+      {
+        "no": "20",
+        "title": "Darkness Falls",
+        "date": "1994-04-15"
+      },
+      {
+        "no": "21",
+        "title": "Tooms",
+        "date": "1994-04-22"
+      },
+      {
+        "no": "22",
+        "title": "Born Again",
+        "date": "1994-04-29"
+      },
+      {
+        "no": "23",
+        "title": "Roland",
+        "date": "1994-05-06"
+      },
+      {
+        "no": "24",
+        "title": "The Erlenmeyer Flask",
+        "date": "1994-05-13"
+      }
+    ]
+  },
+  {
+    "season": "2",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Little Green Men",
+        "date": "1994-09-16"
+      },
+      {
+        "no": "2",
+        "title": "The Host",
+        "date": "1994-09-23"
+      },
+      {
+        "no": "3",
+        "title": "Blood",
+        "date": "1994-09-30"
+      },
+      {
+        "no": "4",
+        "title": "Sleepless",
+        "date": "1994-10-07"
+      },
+      {
+        "no": "5",
+        "title": "Duane Barry",
+        "date": "1994-10-14"
+      },
+      {
+        "no": "6",
+        "title": "Ascension",
+        "date": "1994-10-21"
+      },
+      {
+        "no": "7",
+        "title": "3",
+        "date": "1994-11-04"
+      },
+      {
+        "no": "8",
+        "title": "One Breath",
+        "date": "1994-11-11"
+      },
+      {
+        "no": "9",
+        "title": "Firewalker",
+        "date": "1994-11-18"
+      },
+      {
+        "no": "10",
+        "title": "Red Museum",
+        "date": "1994-12-09"
+      },
+      {
+        "no": "11",
+        "title": "Excelsis Dei",
+        "date": "1994-12-16"
+      },
+      {
+        "no": "12",
+        "title": "Aubrey",
+        "date": "1995-01-06"
+      },
+      {
+        "no": "13",
+        "title": "Irresistible",
+        "date": "1995-01-13"
+      },
+      {
+        "no": "14",
+        "title": "Die Hand Die Verletzt",
+        "date": "1995-01-27"
+      },
+      {
+        "no": "15",
+        "title": "Fresh Bones",
+        "date": "1995-02-03"
+      },
+      {
+        "no": "16",
+        "title": "Colony",
+        "date": "1995-02-10"
+      },
+      {
+        "no": "17",
+        "title": "End Game",
+        "date": "1995-02-17"
+      },
+      {
+        "no": "18",
+        "title": "Fearful Symmetry",
+        "date": "1995-02-24"
+      },
+      {
+        "no": "19",
+        "title": "Død Kalm",
+        "date": "1995-03-10"
+      },
+      {
+        "no": "20",
+        "title": "Humbug",
+        "date": "1995-03-31"
+      },
+      {
+        "no": "21",
+        "title": "The Calusari",
+        "date": "1995-04-14"
+      },
+      {
+        "no": "22",
+        "title": "F. Emasculata",
+        "date": "1995-04-28"
+      },
+      {
+        "no": "23",
+        "title": "Soft Light",
+        "date": "1995-05-05"
+      },
+      {
+        "no": "24",
+        "title": "Our Town",
+        "date": "1995-05-12"
+      },
+      {
+        "no": "25",
+        "title": "Anasazi",
+        "date": "1995-05-19"
+      }
+    ]
+  },
+  {
+    "season": "3",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "The Blessing Way",
+        "date": "1995-09-22"
+      },
+      {
+        "no": "2",
+        "title": "Paper Clip",
+        "date": "1995-09-29"
+      },
+      {
+        "no": "3",
+        "title": "D.P.O.",
+        "date": "1995-10-06"
+      },
+      {
+        "no": "4",
+        "title": "Clyde Bruckman's Final Repose",
+        "date": "1995-10-13"
+      },
+      {
+        "no": "5",
+        "title": "The List",
+        "date": "1995-10-20"
+      },
+      {
+        "no": "6",
+        "title": "2Shy",
+        "date": "1995-11-03"
+      },
+      {
+        "no": "7",
+        "title": "The Walk",
+        "date": "1995-11-10"
+      },
+      {
+        "no": "8",
+        "title": "Oubliette",
+        "date": "1995-11-17"
+      },
+      {
+        "no": "9",
+        "title": "Nisei",
+        "date": "1995-11-24"
+      },
+      {
+        "no": "10",
+        "title": "731",
+        "date": "1995-12-01"
+      },
+      {
+        "no": "11",
+        "title": "Revelations",
+        "date": "1995-12-15"
+      },
+      {
+        "no": "12",
+        "title": "War of the Coprophages",
+        "date": "1996-01-05"
+      },
+      {
+        "no": "13",
+        "title": "Syzygy",
+        "date": "1996-01-26"
+      },
+      {
+        "no": "14",
+        "title": "Grotesque",
+        "date": "1996-02-02"
+      },
+      {
+        "no": "15",
+        "title": "Piper Maru",
+        "date": "1996-02-09"
+      },
+      {
+        "no": "16",
+        "title": "Apocrypha",
+        "date": "1996-02-16"
+      },
+      {
+        "no": "17",
+        "title": "Pusher",
+        "date": "1996-02-23"
+      },
+      {
+        "no": "18",
+        "title": "Teso Dos Bichos",
+        "date": "1996-03-08"
+      },
+      {
+        "no": "19",
+        "title": "Hell Money",
+        "date": "1996-03-29"
+      },
+      {
+        "no": "20",
+        "title": "Jose Chung's From Outer Space",
+        "date": "1996-04-12"
+      },
+      {
+        "no": "21",
+        "title": "Avatar",
+        "date": "1996-04-26"
+      },
+      {
+        "no": "22",
+        "title": "Quagmire",
+        "date": "1996-05-03"
+      },
+      {
+        "no": "23",
+        "title": "Wetwired",
+        "date": "1996-05-10"
+      },
+      {
+        "no": "24",
+        "title": "Talitha Cumi",
+        "date": "1996-05-17"
+      }
+    ]
+  },
+  {
+    "season": "4",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Herrenvolk",
+        "date": "1996-10-04"
+      },
+      {
+        "no": "2",
+        "title": "Home",
+        "date": "1996-10-11"
+      },
+      {
+        "no": "3",
+        "title": "Teliko",
+        "date": "1996-10-18"
+      },
+      {
+        "no": "4",
+        "title": "Unruhe",
+        "date": "1996-10-27"
+      },
+      {
+        "no": "5",
+        "title": "The Field Where I Died",
+        "date": "1996-11-03"
+      },
+      {
+        "no": "6",
+        "title": "Sanguinarium",
+        "date": "1996-11-10"
+      },
+      {
+        "no": "7",
+        "title": "Musings of a Cigarette Smoking Man",
+        "date": "1996-11-17"
+      },
+      {
+        "no": "8",
+        "title": "Tunguska",
+        "date": "1996-11-24"
+      },
+      {
+        "no": "9",
+        "title": "Terma",
+        "date": "1996-12-01"
+      },
+      {
+        "no": "10",
+        "title": "Paper Hearts",
+        "date": "1996-12-15"
+      },
+      {
+        "no": "11",
+        "title": "El Mundo Gira",
+        "date": "1997-01-12"
+      },
+      {
+        "no": "12",
+        "title": "Leonard Betts",
+        "date": "1997-01-26"
+      },
+      {
+        "no": "13",
+        "title": "Never Again",
+        "date": "1997-02-02"
+      },
+      {
+        "no": "14",
+        "title": "Memento Mori",
+        "date": "1997-02-09"
+      },
+      {
+        "no": "15",
+        "title": "Kaddish",
+        "date": "1997-02-16"
+      },
+      {
+        "no": "16",
+        "title": "Unrequited",
+        "date": "1997-02-23"
+      },
+      {
+        "no": "17",
+        "title": "Tempus Fugit",
+        "date": "1997-03-16"
+      },
+      {
+        "no": "18",
+        "title": "Max",
+        "date": "1997-03-23"
+      },
+      {
+        "no": "19",
+        "title": "Synchrony",
+        "date": "1997-04-13"
+      },
+      {
+        "no": "20",
+        "title": "Small Potatoes",
+        "date": "1997-04-20"
+      },
+      {
+        "no": "21",
+        "title": "Zero Sum",
+        "date": "1997-04-27"
+      },
+      {
+        "no": "22",
+        "title": "Elegy",
+        "date": "1997-05-04"
+      },
+      {
+        "no": "23",
+        "title": "Demons",
+        "date": "1997-05-11"
+      },
+      {
+        "no": "24",
+        "title": "Gethsemane",
+        "date": "1997-05-18"
+      }
+    ]
+  },
+  {
+    "season": "5",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Redux",
+        "date": "1997-11-02"
+      },
+      {
+        "no": "2",
+        "title": "Redux II",
+        "date": "1997-11-09"
+      },
+      {
+        "no": "3",
+        "title": "Unusual Suspects",
+        "date": "1997-11-16"
+      },
+      {
+        "no": "4",
+        "title": "Detour",
+        "date": "1997-11-23"
+      },
+      {
+        "no": "5",
+        "title": "The Post-Modern Prometheus",
+        "date": "1997-11-30"
+      },
+      {
+        "no": "6",
+        "title": "Christmas Carol",
+        "date": "1997-12-07"
+      },
+      {
+        "no": "7",
+        "title": "Emily",
+        "date": "1997-12-14"
+      },
+      {
+        "no": "8",
+        "title": "Kitsunegari",
+        "date": "1998-01-04"
+      },
+      {
+        "no": "9",
+        "title": "Schizogeny",
+        "date": "1998-01-11"
+      },
+      {
+        "no": "10",
+        "title": "Chinga",
+        "date": "1998-02-08"
+      },
+      {
+        "no": "11",
+        "title": "Kill Switch",
+        "date": "1998-02-15"
+      },
+      {
+        "no": "12",
+        "title": "Bad Blood",
+        "date": "1998-02-22"
+      },
+      {
+        "no": "13",
+        "title": "Patient X",
+        "date": "1998-03-01"
+      },
+      {
+        "no": "14",
+        "title": "The Red and the Black",
+        "date": "1998-03-08"
+      },
+      {
+        "no": "15",
+        "title": "Travelers",
+        "date": "1998-03-29"
+      },
+      {
+        "no": "16",
+        "title": "Mind's Eye",
+        "date": "1998-04-19"
+      },
+      {
+        "no": "17",
+        "title": "All Souls",
+        "date": "1998-04-26"
+      },
+      {
+        "no": "18",
+        "title": "The Pine Bluff Variant",
+        "date": "1998-05-03"
+      },
+      {
+        "no": "19",
+        "title": "Folie à Deux",
+        "date": "1998-05-10"
+      },
+      {
+        "no": "20",
+        "title": "The End",
+        "date": "1998-05-17"
+      }
+    ]
+  },
+  {
+    "season": "6",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "The Beginning",
+        "date": "1998-11-08"
+      },
+      {
+        "no": "2",
+        "title": "Drive",
+        "date": "1998-11-15"
+      },
+      {
+        "no": "3",
+        "title": "Triangle",
+        "date": "1998-11-22"
+      },
+      {
+        "no": "4",
+        "title": "Dreamland",
+        "date": "1998-11-29"
+      },
+      {
+        "no": "5",
+        "title": "Dreamland II",
+        "date": "1998-12-06"
+      },
+      {
+        "no": "6",
+        "title": "How the Ghosts Stole Christmas",
+        "date": "1998-12-13"
+      },
+      {
+        "no": "7",
+        "title": "Terms of Endearment",
+        "date": "1999-01-03"
+      },
+      {
+        "no": "8",
+        "title": "The Rain King",
+        "date": "1999-01-10"
+      },
+      {
+        "no": "9",
+        "title": "S.R. 819",
+        "date": "1999-01-17"
+      },
+      {
+        "no": "10",
+        "title": "Tithonus",
+        "date": "1999-01-24"
+      },
+      {
+        "no": "11",
+        "title": "Two Fathers",
+        "date": "1999-02-07"
+      },
+      {
+        "no": "12",
+        "title": "One Son",
+        "date": "1999-02-14"
+      },
+      {
+        "no": "13",
+        "title": "Agua Mala",
+        "date": "1999-02-21"
+      },
+      {
+        "no": "14",
+        "title": "Monday",
+        "date": "1999-02-28"
+      },
+      {
+        "no": "15",
+        "title": "Arcadia",
+        "date": "1999-03-07"
+      },
+      {
+        "no": "16",
+        "title": "Alpha",
+        "date": "1999-03-28"
+      },
+      {
+        "no": "17",
+        "title": "Trevor",
+        "date": "1999-04-11"
+      },
+      {
+        "no": "18",
+        "title": "Milagro",
+        "date": "1999-04-18"
+      },
+      {
+        "no": "19",
+        "title": "The Unnatural",
+        "date": "1999-04-25"
+      },
+      {
+        "no": "20",
+        "title": "Three of a Kind",
+        "date": "1999-05-02"
+      },
+      {
+        "no": "21",
+        "title": "Field Trip",
+        "date": "1999-05-09"
+      },
+      {
+        "no": "22",
+        "title": "Biogenesis",
+        "date": "1999-05-16"
+      }
+    ]
+  },
+  {
+    "season": "7",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "The Sixth Extinction",
+        "date": "1999-11-07"
+      },
+      {
+        "no": "2",
+        "title": "The Sixth Extinction II: Amor Fati",
+        "date": "1999-11-14"
+      },
+      {
+        "no": "3",
+        "title": "Hungry",
+        "date": "1999-11-21"
+      },
+      {
+        "no": "4",
+        "title": "Millennium",
+        "date": "1999-11-28"
+      },
+      {
+        "no": "5",
+        "title": "Rush",
+        "date": "1999-12-05"
+      },
+      {
+        "no": "6",
+        "title": "The Goldberg Variation",
+        "date": "1999-12-12"
+      },
+      {
+        "no": "7",
+        "title": "Orison",
+        "date": "2000-01-09"
+      },
+      {
+        "no": "8",
+        "title": "The Amazing Maleeni",
+        "date": "2000-01-16"
+      },
+      {
+        "no": "9",
+        "title": "Signs and Wonders",
+        "date": "2000-01-23"
+      },
+      {
+        "no": "10",
+        "title": "Sein und Zeit",
+        "date": "2000-02-06"
+      },
+      {
+        "no": "11",
+        "title": "Closure",
+        "date": "2000-02-13"
+      },
+      {
+        "no": "12",
+        "title": "X-Cops",
+        "date": "2000-02-20"
+      },
+      {
+        "no": "13",
+        "title": "First Person Shooter",
+        "date": "2000-02-27"
+      },
+      {
+        "no": "14",
+        "title": "Theef",
+        "date": "2000-03-12"
+      },
+      {
+        "no": "15",
+        "title": "En Ami",
+        "date": "2000-03-19"
+      },
+      {
+        "no": "16",
+        "title": "Chimera",
+        "date": "2000-04-02"
+      },
+      {
+        "no": "17",
+        "title": "all things",
+        "date": "2000-04-09"
+      },
+      {
+        "no": "18",
+        "title": "Brand X",
+        "date": "2000-04-16"
+      },
+      {
+        "no": "19",
+        "title": "Hollywood A.D.",
+        "date": "2000-04-30"
+      },
+      {
+        "no": "20",
+        "title": "Fight Club",
+        "date": "2000-05-07"
+      },
+      {
+        "no": "21",
+        "title": "Je Souhaite",
+        "date": "2000-05-14"
+      },
+      {
+        "no": "22",
+        "title": "Requiem",
+        "date": "2000-05-21"
+      }
+    ]
+  },
+  {
+    "season": "8",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Within",
+        "date": "2000-11-05"
+      },
+      {
+        "no": "2",
+        "title": "Without",
+        "date": "2000-11-12"
+      },
+      {
+        "no": "3",
+        "title": "Patience",
+        "date": "2000-11-19"
+      },
+      {
+        "no": "4",
+        "title": "Roadrunners",
+        "date": "2000-11-26"
+      },
+      {
+        "no": "5",
+        "title": "Invocation",
+        "date": "2000-12-03"
+      },
+      {
+        "no": "6",
+        "title": "Redrum",
+        "date": "2000-12-10"
+      },
+      {
+        "no": "7",
+        "title": "Via Negativa",
+        "date": "2000-12-17"
+      },
+      {
+        "no": "8",
+        "title": "Surekill",
+        "date": "2001-01-07"
+      },
+      {
+        "no": "9",
+        "title": "Salvage",
+        "date": "2001-01-14"
+      },
+      {
+        "no": "10",
+        "title": "Badlaa",
+        "date": "2001-01-21"
+      },
+      {
+        "no": "11",
+        "title": "The Gift",
+        "date": "2001-02-04"
+      },
+      {
+        "no": "12",
+        "title": "Medusa",
+        "date": "2001-02-11"
+      },
+      {
+        "no": "13",
+        "title": "Per Manum",
+        "date": "2001-02-18"
+      },
+      {
+        "no": "14",
+        "title": "This Is Not Happening",
+        "date": "2001-02-25"
+      },
+      {
+        "no": "15",
+        "title": "Deadalive",
+        "date": "2001-04-01"
+      },
+      {
+        "no": "16",
+        "title": "Three Words",
+        "date": "2001-04-08"
+      },
+      {
+        "no": "17",
+        "title": "Empedocles",
+        "date": "2001-04-22"
+      },
+      {
+        "no": "18",
+        "title": "Vienen",
+        "date": "2001-04-29"
+      },
+      {
+        "no": "19",
+        "title": "Alone",
+        "date": "2001-05-06"
+      },
+      {
+        "no": "20",
+        "title": "Essence",
+        "date": "2001-05-13"
+      },
+      {
+        "no": "21",
+        "title": "Existence",
+        "date": "2001-05-20"
+      }
+    ]
+  },
+  {
+    "season": "9",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Nothing Important Happened Today",
+        "date": "2001-11-11"
+      },
+      {
+        "no": "2",
+        "title": "Nothing Important Happened Today II",
+        "date": "2001-11-18"
+      },
+      {
+        "no": "3",
+        "title": "Dæmonicus",
+        "date": "2001-12-02"
+      },
+      {
+        "no": "4",
+        "title": "4-D",
+        "date": "2001-12-09"
+      },
+      {
+        "no": "5",
+        "title": "Lord of the Flies",
+        "date": "2001-12-16"
+      },
+      {
+        "no": "6",
+        "title": "Trust No 1",
+        "date": "2002-01-06"
+      },
+      {
+        "no": "7",
+        "title": "John Doe",
+        "date": "2002-01-13"
+      },
+      {
+        "no": "8",
+        "title": "Hellbound",
+        "date": "2002-01-27"
+      },
+      {
+        "no": "9",
+        "title": "Provenance",
+        "date": "2002-03-03"
+      },
+      {
+        "no": "10",
+        "title": "Providence",
+        "date": "2002-03-10"
+      },
+      {
+        "no": "11",
+        "title": "Audrey Pauley",
+        "date": "2002-03-17"
+      },
+      {
+        "no": "12",
+        "title": "Underneath",
+        "date": "2002-03-31"
+      },
+      {
+        "no": "13",
+        "title": "Improbable",
+        "date": "2002-04-07"
+      },
+      {
+        "no": "14",
+        "title": "Scary Monsters",
+        "date": "2002-04-14"
+      },
+      {
+        "no": "15",
+        "title": "Jump the Shark",
+        "date": "2002-04-21"
+      },
+      {
+        "no": "16",
+        "title": "William",
+        "date": "2002-04-28"
+      },
+      {
+        "no": "17",
+        "title": "Release",
+        "date": "2002-05-05"
+      },
+      {
+        "no": "18",
+        "title": "Sunshine Days",
+        "date": "2002-05-12"
+      },
+      {
+        "no": "19\n20",
+        "title": "The Truth",
+        "date": "2002-05-19"
+      }
+    ]
+  },
+  {
+    "season": "-Miniseries",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "My Struggle",
+        "date": "2016-01-24"
+      },
+      {
+        "no": "2",
+        "title": "Founder's Mutation",
+        "date": "2016-01-25"
+      },
+      {
+        "no": "3",
+        "title": "Mulder and Scully Meet the Were-Monster",
+        "date": "2016-02-01"
+      },
+      {
+        "no": "4",
+        "title": "Home Again",
+        "date": "2016-02-08"
+      },
+      {
+        "no": "5",
+        "title": "Babylon",
+        "date": "2016-02-15"
+      },
+      {
+        "no": "6",
+        "title": "My Struggle II",
+        "date": "2016-02-22"
+      }
+    ]
+  }
+]

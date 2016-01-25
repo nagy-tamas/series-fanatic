@@ -49,5 +49,8 @@ module.exports = {
   },
   'Brickleberry': {
     wikiUrl: 'https://en.wikipedia.org/wiki/List_of_Brickleberry_episodes'
+  },
+  'The X-Files': {
+    wikiUrl: 'https://en.wikipedia.org/wiki/List_of_The_X-Files_episodes'
   }
 };
