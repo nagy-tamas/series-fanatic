@@ -52,5 +52,9 @@ module.exports = {
   },
   'The X-Files': {
     wikiUrl: 'https://en.wikipedia.org/wiki/List_of_The_X-Files_episodes'
+  },
+  '11.22.63': {
+    wikiUrl: 'https://en.wikipedia.org/wiki/11.22.63',
+    rowFormat: ['episodeNo', 'episodeTitle', null, null, 'date']
   }
 };

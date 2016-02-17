@@ -1,0 +1,17 @@
+[
+  {
+    "season": 1,
+    "episodes": [
+      {
+        "no": "1",
+        "title": "The Rabbit Hole",
+        "date": "2016-02-15"
+      },
+      {
+        "no": "2",
+        "title": "The Kill Floor",
+        "date": "2016-02-22"
+      }
+    ]
+  }
+]
