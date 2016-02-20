@@ -1,0 +1,197 @@
+[
+  {
+    "season": "1",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Rites of Passagea",
+        "date": "2013-03-03"
+      },
+      {
+        "no": "2",
+        "title": "Wrath of the Northmen",
+        "date": "2013-03-10"
+      },
+      {
+        "no": "3",
+        "title": "Dispossessed",
+        "date": "2013-03-17"
+      },
+      {
+        "no": "4",
+        "title": "Trial",
+        "date": "2013-03-24"
+      },
+      {
+        "no": "5",
+        "title": "Raid",
+        "date": "2013-03-31"
+      },
+      {
+        "no": "6",
+        "title": "Burial of the Dead",
+        "date": "2013-04-07"
+      },
+      {
+        "no": "7",
+        "title": "A King's Ransom",
+        "date": "2013-04-14"
+      },
+      {
+        "no": "8",
+        "title": "Sacrifice",
+        "date": "2013-04-21"
+      },
+      {
+        "no": "9",
+        "title": "All Change",
+        "date": "2013-04-28"
+      }
+    ]
+  },
+  {
+    "season": "2",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Brother's War",
+        "date": "2014-02-27"
+      },
+      {
+        "no": "2",
+        "title": "Invasion",
+        "date": "2014-03-06"
+      },
+      {
+        "no": "3",
+        "title": "Treachery",
+        "date": "2014-03-13"
+      },
+      {
+        "no": "4",
+        "title": "Eye For an Eye",
+        "date": "2014-03-20"
+      },
+      {
+        "no": "5",
+        "title": "Answers in Blood",
+        "date": "2014-03-27"
+      },
+      {
+        "no": "6",
+        "title": "Unforgiven",
+        "date": "2014-04-03"
+      },
+      {
+        "no": "7",
+        "title": "Blood Eagle",
+        "date": "2014-04-10"
+      },
+      {
+        "no": "8",
+        "title": "Boneless",
+        "date": "2014-04-17"
+      },
+      {
+        "no": "9",
+        "title": "The Choice",
+        "date": "2014-04-24"
+      },
+      {
+        "no": "10",
+        "title": "The Lord's Prayer",
+        "date": "2014-05-01"
+      }
+    ]
+  },
+  {
+    "season": "3",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Mercenary",
+        "date": "2015-02-19"
+      },
+      {
+        "no": "2",
+        "title": "The Wanderer",
+        "date": "2015-02-26"
+      },
+      {
+        "no": "3",
+        "title": "Warrior's Fate",
+        "date": "2015-03-05"
+      },
+      {
+        "no": "4",
+        "title": "Scarred",
+        "date": "2015-03-12"
+      },
+      {
+        "no": "5",
+        "title": "The Usurper",
+        "date": "2015-03-19"
+      },
+      {
+        "no": "6",
+        "title": "Born Again",
+        "date": "2015-03-26"
+      },
+      {
+        "no": "7",
+        "title": "Paris",
+        "date": "2015-04-02"
+      },
+      {
+        "no": "8",
+        "title": "To the Gates!",
+        "date": "2015-04-09"
+      },
+      {
+        "no": "9",
+        "title": "Breaking Point",
+        "date": "2015-04-16"
+      },
+      {
+        "no": "10",
+        "title": "The Dead",
+        "date": "2015-04-23"
+      }
+    ]
+  },
+  {
+    "season": "4",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "A Good Treason",
+        "date": "2016-02-18"
+      },
+      {
+        "no": "2",
+        "title": "Kill the Queen",
+        "date": "2016-02-25"
+      },
+      {
+        "no": "3",
+        "title": "Mercy",
+        "date": "2016-03-03"
+      },
+      {
+        "no": "4",
+        "title": "Yol",
+        "date": "2016-03-10"
+      },
+      {
+        "no": "5",
+        "title": "Promised",
+        "date": "2016-03-17"
+      },
+      {
+        "no": "6",
+        "title": "What Might Have Been",
+        "date": "2016-03-24"
+      }
+    ]
+  }
+]

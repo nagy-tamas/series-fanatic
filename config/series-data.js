@@ -56,5 +56,8 @@ module.exports = {
   '11.22.63': {
     wikiUrl: 'https://en.wikipedia.org/wiki/11.22.63',
     rowFormat: ['episodeNo', 'episodeTitle', null, null, 'date']
+  },
+  'The Vikings': {
+    wikiUrl: 'https://en.wikipedia.org/wiki/List_of_Vikings_episodes'
   }
 };
