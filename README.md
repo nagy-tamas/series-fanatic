@@ -49,10 +49,16 @@ node check
 
 ## Updating the db
 
-The `cache` dir needs to be updated occasionally to be updated for the newer episodes. You need to run the following command for this:
+The `cache` dir needs to be updated occasionally to be updated for the newer episodes. You need to run the following command for update everything:
 
 ```
 node update-cache
+```
+
+Update only a specific show
+
+```
+node update-cache.js --shows="The Simpsons"
 ```
 
 You can also `git pull` this repo from time to time, I try to keep it as updated as possible.
