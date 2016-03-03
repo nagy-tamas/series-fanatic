@@ -524,11 +524,13 @@
       },
       {
         "no": "13",
-        "title": "Labor of Love"
+        "title": "Labor of Love",
+        "date": "2016-03-13"
       },
       {
         "no": "14",
-        "title": "Devil's Due"
+        "title": "Devil's Due",
+        "date": "2016-03-20"
       },
       {
         "no": "15",
@@ -553,6 +555,10 @@
       {
         "no": "20",
         "title": "Firebird"
+      },
+      {
+        "no": "21",
+        "title": "Last Rites"
       }
     ]
   }
