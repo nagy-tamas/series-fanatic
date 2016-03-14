@@ -98,5 +98,20 @@
         "date": "2015-06-14"
       }
     ]
+  },
+  {
+    "season": "3",
+    "episodes": [
+      {
+        "no": "1",
+        "title": "Founder Friendly",
+        "date": "2016-04-24"
+      },
+      {
+        "no": "2",
+        "title": "Two in the Box",
+        "date": "2016-05-01"
+      }
+    ]
   }
 ]

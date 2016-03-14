@@ -448,13 +448,8 @@
         "date": "2015-05-03"
       },
       {
-        "no": "21",
-        "title": "Operation Mongoose, Part 1",
-        "date": "2015-05-10"
-      },
-      {
-        "no": "22",
-        "title": "Operation Mongoose, Part 2",
+        "no": "21–22",
+        "title": "Operation Mongoose",
         "date": "2015-05-10"
       }
     ]
@@ -534,11 +529,13 @@
       },
       {
         "no": "15",
-        "title": "The Brothers Jones"
+        "title": "The Brothers Jones",
+        "date": "2016-03-27"
       },
       {
         "no": "16",
-        "title": "Our Decay"
+        "title": "Our Decay",
+        "date": "2016-04-03"
       },
       {
         "no": "17",
@@ -559,6 +556,10 @@
       {
         "no": "21",
         "title": "Last Rites"
+      },
+      {
+        "no": "22",
+        "title": "Only You"
       }
     ]
   }
