@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A command line tool to list episodes of series aired in the close past and future, so you won't miss anything.
+A command line tool for listing episodes of different series aired in the close past and future, so you won't miss anything.
 
 Sample output:
 
