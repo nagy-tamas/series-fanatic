@@ -544,27 +544,33 @@
       },
       {
         "no": "18",
-        "title": "Ruby Slippers"
+        "title": "Ruby Slippers",
+        "date": "2016-04-17"
       },
       {
         "no": "19",
-        "title": "Sisters"
+        "title": "Sisters",
+        "date": "2016-04-24"
       },
       {
         "no": "20",
-        "title": "Firebird"
+        "title": "Firebird",
+        "date": "2016-05-01"
       },
       {
         "no": "21",
-        "title": "Last Rites"
+        "title": "Last Rites",
+        "date": "2016-05-08"
       },
       {
         "no": "22",
-        "title": "Only You"
+        "title": "Only You",
+        "date": "2016-05-15"
       },
       {
         "no": "23",
-        "title": "An Untold Story"
+        "title": "An Untold Story",
+        "date": "2016-05-15"
       }
     ]
   }
